@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "53d85eb5395331d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "806a8ae3a309b516",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97d8071983fbeccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEST/Sample.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6075c2b9df0b7a2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6429607581e2932",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "263643f05a975437",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a990a5bf2c26dffa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fce3255ee7c47be1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318.01103591918945
+  },
+  "right": {
+    "id": "bc71c9071ebc6a96",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4cf327dedf762ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d46273d308390135",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TEST/Sample.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59ea557de274c4e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TEST/Sample.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9c0fb6c92439f996",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ab2ed28cecaaac3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TEST/Sample.md"
+              }
+            }
+          },
+          {
+            "id": "9513438e3c48d368",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "97d8071983fbeccb",
+  "lastOpenFiles": [
+    "TEST/Sample.md",
+    "TEST",
+    "CheatSheets/README.md",
+    "CheatSheets/LICENSE",
+    "CheatSheets",
+    "Cheatsheet/README.md",
+    "Cheatsheet/Home Lab Config.md",
+    "Cheatsheet/Kubernetes.md",
+    "Cheatsheet/Self Signed SSL Certificate(SSL).md",
+    "Cheatsheet/New folder",
+    "2024-04-11.md",
+    "Untitled.canvas",
+    "Hackintosh Lenovo Thinkcentre M700/Hardware Info.md",
+    "Hackintosh Lenovo Thinkcentre M700",
+    "Homelab/Home LAB Tiny (UnixVextor).md",
+    "Cheatsheet",
+    "Homelab/Kubernetes.md",
+    "Homelab/Self Signed SSL Certificate(SSL).md",
+    "WORK.md",
+    "หอพักพระราม 9.md",
+    "IST/Pasted image 20240314091713.png",
+    "IST/Command IST EXAM.md",
+    "IST/IST Routing and NAT.md",
+    "IST/Cisco  Aspire.md",
+    "Homelab",
+    "IST/LAB10.md",
+    "IST"
+  ]
+}
