@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KPIT-Note/KPIT_01.md",
+                "file": "KPIT-Notes/KPIT_01.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KPIT-Note/KPIT_01.md",
+                "file": "KPIT-Notes/KPIT_01.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KPIT-Note/KPIT_01.md",
+                "file": "KPIT-Notes/KPIT_01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "KPIT-Note/KPIT_01.md",
+                "file": "KPIT-Notes/KPIT_01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KPIT-Note/KPIT_01.md"
+                "file": "KPIT-Notes/KPIT_01.md"
               }
             }
           },
@@ -186,22 +186,22 @@
   },
   "active": "263643f05a975437",
   "lastOpenFiles": [
-    "KPIT-Note/Images/KPIT_01/Image_11.png",
-    "KPIT-Note/Images/KPIT_01/Image_10.png",
-    "KPIT-Note/Images/KPIT_01/Image_09.png",
-    "KPIT-Note/Images/KPIT_01/Image_08.png",
-    "KPIT-Note/Images/KPIT_01/Image_07.png",
-    "KPIT-Note/Images/KPIT_01/Image_06.png",
-    "KPIT-Note/Images/KPIT_01/Image_05.png",
-    "KPIT-Note/Images/KPIT_01/Image_04.png",
-    "KPIT-Note/Images/KPIT_01/Image_03.png",
-    "KPIT-Note/Images/KPIT_01/Image_01.png",
-    "KPIT-Note/KPIT_01.md",
+    "KPIT-Notes/Images/KPIT_01/Image_01.png",
+    "KPIT-Notes/KPIT_01.md",
+    "KPIT-Notes/Images/KPIT_01/Image_11.png",
+    "KPIT-Notes/Images/KPIT_01/Image_10.png",
+    "KPIT-Notes/Images/KPIT_01/Image_09.png",
+    "KPIT-Notes/Images/KPIT_01/Image_08.png",
+    "KPIT-Notes/Images/KPIT_01/Image_07.png",
+    "KPIT-Notes/Images/KPIT_01/Image_06.png",
+    "KPIT-Notes/Images/KPIT_01/Image_05.png",
+    "KPIT-Notes/Images/KPIT_01/Image_04.png",
+    "KPIT-Notes/Images/KPIT_01/Image_03.png",
     "TEST/Sample.md",
-    "KPIT-Note/KPIT_02.md",
-    "KPIT-Note/Images/KPIT_01",
-    "KPIT-Note/Images",
-    "KPIT-Note",
+    "KPIT-Notes/KPIT_02.md",
+    "KPIT-Notes/Images/KPIT_01",
+    "KPIT-Notes/Images",
+    "KPIT-Notes",
     "README.md",
     "TEST",
     "CheatSheets/README.md",
