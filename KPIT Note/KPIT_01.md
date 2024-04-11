@@ -13,7 +13,7 @@
 	- [[#HIL Process]]
 - **[[#VT System]]**
 	- [[#what is VT System?]]
-	- [[#VT System Concept]]
+	- [[#VT System Concept]].
 ---
 
  ## V-Model (Integration Test) 
