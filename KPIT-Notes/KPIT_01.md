@@ -1,19 +1,7 @@
+
 #KPIT #Assignment 
 
-# Engineering 9 Introduction
-## List of Topics
-
-- **[V-Model (Integration Test)](#v-model-integration-test)**
-	- [What is V-Model?](#what-is-v-model)
-	- [[#V-Model Verification vs Validation]]
-	- [[#V-Model What is Integration Testing?]]
-- **[HIL (Hardware-In-Loop)](KPIT_01.md#hil-hardware-in-loop)**
-	- [[#Engine Testing vs HIL]]
-	- [[#HIL Process]]
-- **[[#VT System]]**
-	- [[#what is VT System?]]
-	- [[#VT System Concept]].
----
+<h1>Engineering 9 Introduction</h1>
 
 ## V-Model (Integration Test) 
 ### What is V-Model?
@@ -23,12 +11,13 @@ The V-Model is a Software development process that describes the relationship be
 <p style="text-align: center;">V-Model Life Cycle</p>
 
 ### V-Model: Verification vs Validation
-**Verification:** It involves a static analysis method(review) ==done without executing code.== It is the process of evaluation of the product development process to find whether specified requirements meet.
+**Verification:** It involves a static analysis method(review) 
+<span style="color: #85C9FF">done without executing code.</span> It is the process of evaluation of the product development process to find whether specified requirements meet.
 
-**Validation:** It involves dynamic analysis method(functional, non-functional), ==testing is done by executing code== Validation is the process to classify the software after the completion of the development process to determine whether the software meets the customer expectations and requirements.  
+**Validation:** It involves dynamic analysis method(functional, non-functional), <span style="color: #85C9FF">testing is done by executing code</span> Validation is the process to classify the software after the completion of the development process to determine whether the software meets the customer expectations and requirements.  
 
 ### V-Model: What is Integration Testing?
-**Integration Testing** is ==integration Test Plans are develop during the software Design Phase== These test verify that groups created tested independent can coexist and communicate among themselves.
+**Integration Testing** is <span style="color: #85C9FF">integration Test Plans are develop during the software Design Phase</span> These test verify that groups created tested independent can coexist and communicate among themselves.
 
 ---
 ## HIL (Hardware-In-Loop)
