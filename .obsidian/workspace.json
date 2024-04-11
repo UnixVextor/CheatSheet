@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "78279f0f2b365188",
+        "id": "743f889e53c69a42",
         "type": "tabs",
         "children": [
           {
-            "id": "38d0b3f7f9d31cc6",
+            "id": "fe4ba090778b5faa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -184,10 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "263643f05a975437",
+  "active": "fe4ba090778b5faa",
   "lastOpenFiles": [
-    "KPIT-Notes/Images/KPIT_01/Image_01.png",
     "KPIT-Notes/KPIT_01.md",
+    "KPIT-Notes/Images/KPIT_01/Image_01.png",
     "KPIT-Notes/Images/KPIT_01/Image_11.png",
     "KPIT-Notes/Images/KPIT_01/Image_10.png",
     "KPIT-Notes/Images/KPIT_01/Image_09.png",
