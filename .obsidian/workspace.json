@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "806a8ae3a309b516",
+        "id": "553a715b36b009a7",
         "type": "tabs",
         "children": [
           {
-            "id": "97d8071983fbeccb",
+            "id": "0e80fde8c5c22ac2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "dd073c17dd2dd819",
+        "id": "78279f0f2b365188",
         "type": "tabs",
         "children": [
           {
-            "id": "29f7f17344c23c97",
+            "id": "38d0b3f7f9d31cc6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,13 +154,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "29276b72986b4ee4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +184,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "97d8071983fbeccb",
+  "active": "0e80fde8c5c22ac2",
   "lastOpenFiles": [
-    "KPIT Note/KPIT_01.md",
-    "KPIT Note/Images/KPIT_01/Image_12.png",
     "KPIT Note/Images/KPIT_01/Image_11.png",
     "KPIT Note/Images/KPIT_01/Image_10.png",
     "KPIT Note/Images/KPIT_01/Image_09.png",
@@ -189,6 +195,8 @@
     "KPIT Note/Images/KPIT_01/Image_05.png",
     "KPIT Note/Images/KPIT_01/Image_04.png",
     "KPIT Note/Images/KPIT_01/Image_03.png",
+    "KPIT Note/Images/KPIT_01/Image_01.png",
+    "KPIT Note/KPIT_01.md",
     "TEST/Sample.md",
     "KPIT Note/KPIT_02.md",
     "KPIT Note/Images/KPIT_01",
