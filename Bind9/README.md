@@ -1,5 +1,5 @@
 # Introduction
-**Bind9**  is a [DNS](https://www.quickserv.co.th/knowledge-base/solutions/DNS-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/) server that ha evolved to be a very flexible, full-featured DNS System.Whatever your application is, in this tutorial I use BIND9 use as my private DNS Server for my Homelab.
+**Bind9**  is a [DNS](https://www.quickserv.co.th/knowledge-base/solutions/DNS-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/) server that has evolved to be a very flexible, full-featured DNS System.Whatever your application is, in this tutorial I use BIND9 use as my private DNS Server for my Homelab.
 
 # Requirements
 - Ubuntu Linux 20.04  or latest version.
