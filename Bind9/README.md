@@ -1,11 +1,11 @@
-## Introduction
+# Introduction
 **Bind9**  is a [DNS](https://www.quickserv.co.th/knowledge-base/solutions/DNS-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/) server that ha evolved to be a very flexible, full-featured DNS System.Whatever your application is, in this tutorial I use BIND9 use as my private DNS Server for my Homelab.
 
-## Requirements
+# Requirements
 - Ubuntu Linux 20.04  or latest version.
 - Public or Fake domain name such as `unixvextor.dev`(public) or `onetime.local`(fake) 
 
-## Infrastructure
+# Infrastructure
 
 **This is just a example**
 
@@ -15,8 +15,8 @@
 | `proxmox`   | `Generic hostname` | `proxmox.unixvextor.com`   | `10.10.0.12`       |  
 | `portainer` | `Generic hostname` | `portainer.unixvextor.com` | `10.10.0.13`       |
 
-## Installation
-####  1. Install BIND9 on Ubuntu Linux 20.04
+# Installation
+##  1. Install BIND9 on Ubuntu Linux 20.04
 
 Update and Upgrade `apk` package on Ubuntu Linux
 ```bash
@@ -48,7 +48,7 @@ Restart BIND9 service to implement the change.
 sudo systemctl restart bind9
 ```
 
-#### 2.Configuring the DNS Server
+## 2.Configuring the DNS Server
 
 Open file `named.conf.options` to set configuration of DNS Server.
 
@@ -110,7 +110,7 @@ options {
 };
 ```
 
-##### Configuring the Local File
+### Configuring the Local File
 
 ```bash
 sudo vim /etc/bind/named.conf.local
@@ -133,7 +133,7 @@ zone “10.10.in-address.arpa” { # Reverse Zone
 }
 ```
 
-###### Creating the Forward Zone File
+### Creating the Forward Zone File
 
 ```bash
 sudo mkdir /etc/bind/zones # create zone directory 
@@ -190,7 +190,7 @@ proxmox.unixvextor.dev.      IN     A    10.10.0.12
 portainer.unixvextor.dev.    IN     A    10.10.0.13
 ```
 
-###### (Optional) Reverse Zone File
+### (Optional) Reverse Zone File
 
 Copy example reverse Zone file to `db.10.10`
 
@@ -242,7 +242,7 @@ $TTL   604800
 13.0       IN     PTR portainer.unixvextor.com. ; 10.10.0.13
 ```
 
-#### 3.Checking the BIND Configuration Syntax
+## 3.Checking the BIND Configuration Syntax
 
 ```bash
 sudo named-checkconf
@@ -269,7 +269,7 @@ Also check reverse zone file
 sudo named-checkzone 10.10.in-addr.arpa /etc/bind/zones/db.10.10
 ```
 
-#### 4.Restarting BIND
+## 4.Restarting BIND
 
 ```bash
 sudo systemctl restart bind9
